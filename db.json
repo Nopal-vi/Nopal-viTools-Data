@@ -3,7 +3,7 @@
       {
         "id": 1,
         "update": "V0.4",
-        "main": "main_update",
+        "main": main_update,
         "url": "https://github.com/Nopal-vi/Nopal-viTools"
       }
     ],
